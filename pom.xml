@@ -4,7 +4,7 @@
 
   <groupId>edu.jhu.hlt</groupId>
   <artifactId>mvn-oss-parent</artifactId>
-  <version>1</version>
+  <version>2</version>
   <packaging>pom</packaging>
 
   <name>mvn-oss-parent</name>
@@ -152,7 +152,6 @@
             </goals>
             <configuration>
               <rules>
-                <dependencyConvergence/>
                 <requireJavaVersion>
                   <version>[${javac.version.src},)</version>
                   <message>[ERROR] The currently supported version of Java is 1.8 or higher</message>
