@@ -4,7 +4,7 @@
 
   <groupId>edu.jhu.hlt</groupId>
   <artifactId>mvn-oss-parent</artifactId>
-  <version>3</version>
+  <version>4</version>
   <packaging>pom</packaging>
 
   <name>mvn-oss-parent</name>
@@ -15,10 +15,6 @@
     <name>Johns Hopkins University HLTCOE</name>
     <url>http://hltcoe.jhu.edu</url>
   </organization>
-
-  <prerequisites>
-    <maven>3.0.4</maven>
-  </prerequisites>
 
   <licenses>
     <license>
