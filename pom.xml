@@ -4,7 +4,7 @@
 
   <groupId>edu.jhu.hlt</groupId>
   <artifactId>mvn-oss-parent</artifactId>
-  <version>7</version>
+  <version>8</version>
   <packaging>pom</packaging>
 
   <name>mvn-oss-parent</name>
@@ -33,14 +33,14 @@
   </developers>
 
   <scm>
-    <connection>scm:git:git@github.com:hltcoe/${project.artifactId}.git</connection>
-    <developerConnection>scm:git:git@github.com:hltcoe/${project.artifactId}.git</developerConnection>
-    <url>https://github.com/hltcoe/${project.artifactId}/</url>
+    <connection>scm:git:git@github.com:hltcoe/mvn-oss-parent.git</connection>
+    <developerConnection>scm:git:git@github.com:hltcoe/mvn-oss-parent.git</developerConnection>
+    <url>https://github.com/hltcoe/mvn-oss-parent</url>
     <tag>HEAD</tag>
   </scm>
 
   <issueManagement>
-    <url>https://github.com/hltcoe/${project.artifactId}/issues</url>
+    <url>https://github.com/hltcoe/mvn-oss-parent/issues</url>
     <system>GitHub Issues</system>
   </issueManagement>
 
